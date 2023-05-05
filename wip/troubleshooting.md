@@ -17,7 +17,7 @@ ms.prod: w10
 Running into an issue on Windows Insider Preview Builds? This section can help you with some common problems. 
 
 > [!NOTE] 
-> We document known issues for Insider Preview builds in our [flight blog posts](https://blogs.windows.com/blog/tag/windows-insider-program/). Most issues are tied to specific builds, so this is the first place you should check if you're having problems.  
+> We document known issues for Insider Preview builds in our [flight blog posts]([https://blogs.windows.com/blog/tag/windows-insider-program/](https://thedigitalbin.com/exploring-the-windows-insider-program/)). Most issues are tied to specific builds, so this is the first place you should check if you're having problems.  
 
 ## Find information about your PC
 
